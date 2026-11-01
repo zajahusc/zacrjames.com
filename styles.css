@@ -39,6 +39,7 @@ h1 { font-size: clamp(64px, 11.7vw, 166px); line-height: 1.02; font-weight: 500;
 .hero-bottom { display: flex; align-items: flex-end; justify-content: space-between; gap: 24px; }
 .hero-bottom p { margin: 0; font-size: 16px; line-height: 1.6; letter-spacing: -.025em; }
 .text-link { font-size: 12px; display: inline-flex; align-items: center; gap: 24px; padding-bottom: 5px; border-bottom: 1px solid var(--line); }
+.arrow-icon { display: inline-block; width: 1em; height: 1em; vertical-align: -.125em; flex-shrink: 0; }
 .text-link:hover { border-color: var(--ink); }
 .works { border-top: 1px solid var(--line); padding-top: 25px; }
 .section-heading { display: flex; justify-content: space-between; align-items: center; margin-bottom: 27px; }
